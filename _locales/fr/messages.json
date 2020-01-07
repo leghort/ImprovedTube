@@ -60,7 +60,7 @@
         "message": "Auto-plein écran"
     },
     "autopauseWhenSwitchingTabs": {
-        "message": "Autopause when switching tabs"
+        "message": "Autopause lors du changement d'onglet"
     },
     "autoplay": {
         "message": "Lecture automatique"
@@ -221,11 +221,14 @@
     "footer": {
         "message": "Footer"
     },
+        "forcedPlaybackSpeed": {
+        "message": "Forced playback speed"
+    },
     "forcedTheaterMode": {
         "message": "Forced theater mode"
     },
     "forcedVolume": {
-        "message": "Forced volume"
+        "message": "Volume forcée"
     },
     "foundABug": {
         "message": "Bug trouver?"
@@ -369,7 +372,7 @@
         "message": "Live chat"
     },
     "loudnessNormalization": {
-        "message": "Loudness normalization"
+        "message": "Normalisation audio"
     },
     "miniPlayer": {
         "message": "Mini lecteur"
