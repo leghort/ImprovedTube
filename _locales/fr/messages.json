@@ -1,4 +1,9 @@
-
+{
+    "about": {
+        "message": "À propos"
+    },
+    "activateCaptions": {
+        "message": "Activate captions"
     },
     "activateFullscreen": {
         "message": "Activate fullscreen"
@@ -373,22 +378,22 @@
         "message": "Mélangeur de volume"
     },
     "name": {
-        "message": "Name"
+        "message": "Nom"
     },
     "nativeMiniPlayer": {
         "message": "Native mini player"
     },
     "new": {
-        "message": "New"
+        "message": "Nouveau"
     },
     "nextVideo": {
-        "message": "Next video"
+        "message": "Vidéo suivante"
     },
     "night": {
-        "message": "Night"
+        "message": "Nuit"
     },
     "none": {
-        "message": "None"
+        "message": "Aucun"
     },
     "noOpenVideoTabs": {
         "message": "No open video tabs"
@@ -397,10 +402,10 @@
         "message": "Normal"
     },
     "old": {
-        "message": "Old"
+        "message": "Ancien"
     },
     "onAllVideos": {
-        "message": "On all videos"
+        "message": "Sur toutes les vidéos"
     },
     "onlyActiveOnYoutube": {
         "message": "Allumer uniquement sur YouTube"
@@ -649,10 +654,10 @@
         "message": "When tab is changed"
     },
     "white": {
-        "message": "White"
+        "message": "Blanc"
     },
     "yellow": {
-        "message": "Yellow"
+        "message": "Jaune"
     },
     "youtubeHeaderLeft": {
         "message": "Youtube Header (left)"
